@@ -9,6 +9,10 @@ init, set, get, connect, disconnect
 
 [![Edit quantum_example_todo_list](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/iwokloco/quantum-example-todo-list/tree/master/?codemirror=1&fontsize=14)
 
+
+And here the same project with classic redux (write write write too mechanical and boring):
+https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todos
+
 ## How to Install Quantum Store: fucking easy.
 
 npm install quantum-store
