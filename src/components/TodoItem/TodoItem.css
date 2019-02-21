@@ -2,6 +2,7 @@ li {
   cursor: pointer;
   display: flex;
   margin-bottom: 5px;
+  margin-left: 10px;
 }
 li img {
   width: 20px;
@@ -10,4 +11,7 @@ li img {
 }
 li span {
   line-height:  20px;
+}
+.completed {
+  text-decoration:line-through;
 }

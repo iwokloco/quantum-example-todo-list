@@ -7,8 +7,7 @@ export class TodoItem extends Component {
     const { text, type, onClick } = this.props;
     return (
       <li onClick={onClick}>
-        <img alt="check" className="imgCheck" src={type === FILTER_COMPLETED ? 'checked.png' : 'unchecked.png'} />
-        <span>{text}</span>
+        <span className={type === FILTER_COMPLETED ? 'completed' : ''}>{text}</span>
       </li>
     );
   }
