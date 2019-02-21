@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import { Filter } from './components/Filter/Filter';
 import { TodoList } from './components/TodoList/TodoList';
 import { AddTodo } from './components/AddTodo/AddTodo';
