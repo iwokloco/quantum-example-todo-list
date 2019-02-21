@@ -1,0 +1,13 @@
+li {
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 5px;
+}
+li img {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+li span {
+  line-height:  20px;
+}
